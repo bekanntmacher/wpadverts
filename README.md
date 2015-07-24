@@ -1,0 +1,2 @@
+# wpadverts
+WordPress Classifieds Plugin
